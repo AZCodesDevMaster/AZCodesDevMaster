@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
--  I'm a Software Engineer in Canada
+### A Software Engineer in Canada
 
 
 # 💻 Tech Stack:
