@@ -1,4 +1,3 @@
-### A Software Engineer in Canada
 
 
 # 💻 Tech Stack:
